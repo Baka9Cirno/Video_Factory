@@ -1,0 +1,11 @@
+Okay, let's start by understanding the user's request. They want a fairy tale about a 10-year-old kid's adventure in the forest. The workflow involves writing the story, choosing a video style, splitting it into shots with descriptions, generating images for each shot, and then creating videos with action prompts.
+
+First, I need to craft a compelling story. The main character should be a relatable 10-year-old. Let's name her Lily. The forest setting offers opportunities for magical elements—maybe talking animals or enchanted objects. Including a quest gives direction, so perhaps she helps a wounded animal, leading to a hidden grove with a guardian tree. Including a moral about kindness and courage adds depth.
+
+Next, the video style. Whimsical and magical with soft lighting makes sense for a fairy tale. Cartoon style with vibrant colors will appeal to children. Need to ensure consistency in character appearances across shots.
+
+Splitting the story into shots: Start with Lily entering the forest, then discovering the fox, following it to the grove, interacting with the guardian tree, the transformation scene, and finally returning home. Each shot needs a detailed visual description and action prompt for video generation.
+
+For each shot, the image prompt should include the scene setup, characters, and style. The video prompt must describe the actions, like movements of characters and environmental effects. Consistency in Lily's appearance (clothing, hair) is crucial. Also, the fox's red fur and the tree's ancient features should remain the same across shots.
+
+I need to make sure each shot is separate, no merging. Detailed descriptions for both image and video prompts. Save the story and video style first, then handle each shot step-by-step. Check that actions in video prompts are dynamic enough to animate from the still images.

@@ -1,0 +1,36 @@
+Understood! I'll create a video adaptation of the famous Chinese poem "The Net to Catch the Moon" (猴子捞月). Here's my workflow:
+
+1. First, I'll write the story based on the poem's narrative.
+2. Then select an appropriate video style.
+3. Break it into shots with detailed descriptions.
+4. Generate images and action prompts for each shot.
+
+Let me start with the story:
+
+'''python
+Save_Text("story.txt", "In a quiet forest by a moonlit pond, a group of playful monkeys discover the moon's reflection in the water. Believing the moon has fallen into the pond, they devise a plan to rescue it by forming a chain to scoop it out. The youngest monkey at the bottom reaches into the water, but as his hand breaks the surface, the moon shatters into ripples. Confused but determined, the monkeys try again and again until exhaustion sets in. As dawn approaches, they look up to see the real moon still shining in the sky, realizing their foolishness. The story ends with the monkeys laughing at their own mistake as the sun rises.")
+'''
+
+Now I'll select the video style:
+
+'''python
+Save_Text("video_style.txt", "Chinese ink painting animation style with soft watercolor textures and subtle brushstroke details. The color palette should feature midnight blues, silvery whites, and deep blacks with occasional warm highlights. The animation should have gentle, flowing movements reminiscent of traditional Chinese landscape paintings coming to life.")
+'''
+
+Now I'll break this into shots with detailed descriptions. I'll do them one at a time:
+
+Shot 1: Establishing the moonlit forest scene
+'''python
+Make_ShotImage(1, "A serene Chinese landscape at night with a full moon casting silver light over a tranquil forest. A small circular pond reflects the moon perfectly. Tall bamboo stalks frame the composition with their slender silhouettes. The style is soft ink wash painting with visible brush strokes in the moon's glow.")
+'''
+
+Character details for consistency:
+- Monkeys: Small golden-furred primates with expressive faces
+- Oldest monkey: Slightly larger with some gray in his fur
+- Youngest monkey: Smallest with bright, curious eyes
+- All wear no clothing to maintain natural appearance
+
+Action description for Shot 1:
+"The camera slowly pans down from the full moon to reveal the forest and pond below. Gentle night breeze makes bamboo leaves rustle softly. Moonlight shimmers on the pond's still surface where the moon's perfect reflection sits undisturbed."
+
+Would you like me to proceed with the next shot after this one is generated?
